@@ -1,2 +1,2 @@
 # project_1
-http://jfsoftbd.com/
+https://jfsoft.netlify.app/
